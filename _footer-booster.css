@@ -179,6 +179,15 @@ img {
  
 }
 
+.team__list-below {
+  margin-top: 10px;
+  margin-left: 102px;
+  margin-right: 102px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  
+}
+
 
 @media screen and (min-width: 480px) and (max-width: 767px) {
   .team__list {
