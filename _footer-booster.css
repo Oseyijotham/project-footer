@@ -75,9 +75,9 @@ img {
   position: absolute;
   height: 600px;
   overflow: auto;
-  background-color: #212121;
+  
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
-  border-radius: 4px;
+  border-radius: 10px;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
@@ -98,12 +98,12 @@ img {
 }
 
 .modal-window__button {
-  background-color: white;
+  
   width: 30px;
   height: 30px;
   border-radius: 50%;
   border: 1px solid rgba(0, 0, 0, 0.1);
-  color: #000000;
+  
   display: flex;
   align-items: center;
   justify-content: center;
@@ -250,7 +250,7 @@ img {
   padding-top: 5px;
   margin-bottom: 5px;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.1875;
   text-align: center;
