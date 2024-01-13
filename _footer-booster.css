@@ -183,11 +183,12 @@ img {
 
 .team__list {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 10px;
  
 }
 
+/*
 .team__list-below {
   margin-top: 10px;
   margin-left: 102px;
@@ -195,7 +196,7 @@ img {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   
-}
+}*/
 
 
 @media screen and (min-width: 480px) and (max-width: 767px) {
